@@ -1,0 +1,14 @@
+This folder is for storing portfolio images.
+
+Replace this file with actual images for your portfolio:
+- Profile picture
+- Project screenshots
+- Logos
+- Background images
+- Other visual assets
+
+Recommended image formats:
+- JPEG for photographs
+- PNG for graphics with transparency
+- SVG for logos and icons
+- WebP for optimized web images
